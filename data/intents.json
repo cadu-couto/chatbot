@@ -5,7 +5,7 @@
          "context": [""]
         },
         {"tag": "goodbye",
-         "patterns": ["Tchau", "Vejo você depois", "Adeus", "Bom conversar com você, tchau", "Te vejo mais tarde", "Bye"],
+         "patterns": ["Tchau", "Vejo você depois", "Adeus", "Bom conversar com você, tchau", "Te vejo mais tarde", "Bye", "Beleza"],
          "responses": ["Até logo!"],
          "context": [""]
         },
@@ -64,5 +64,6 @@
          "responses": ["Temos desconto de 10% para os seguintes convênio médicos: Abril Saúde e Norte Saúde."],
          "context": [""]
         }
+
    ]
 }
